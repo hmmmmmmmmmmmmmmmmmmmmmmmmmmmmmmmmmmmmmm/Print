@@ -1,2 +1,2 @@
 # print
-prints in python.
+How To Print In Python
